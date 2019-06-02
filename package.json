@@ -1,0 +1,16 @@
+{
+  "name": "korean-web-font-optimization",
+  "version": "1.0.0",
+  "description": "한국어 웹 폰트를 unicode-range를 이용해 최적화하는 스크립트",
+  "main": "index.js",
+  "repository": "https://github.com/raon0211/korean-web-font-optimization.git",
+  "author": "Sojin Park <raon0211@outlook.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "concat": "^1.0.3",
+    "font-ranger": "^3.0.5",
+    "node-fetch": "^2.6.0",
+    "rimraf": "^2.6.3"
+  }
+}

@@ -1,0 +1,5 @@
+fonts
+node_modules
+*.css
+*.woff
+*.woff2
