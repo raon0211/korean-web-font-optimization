@@ -10,7 +10,7 @@
   "dependencies": {
     "concat": "^1.0.3",
     "font-ranger": "^3.0.5",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "rimraf": "^2.6.3"
   }
 }
